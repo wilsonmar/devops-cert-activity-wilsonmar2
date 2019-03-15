@@ -18,7 +18,7 @@ When you are finished, @mention `crichID` so we can take a look.
 
 The developers at xyz corp use MyAwesomeBookApp to share what they are learning in the books they are reading. They have some great ideas to make it better, but the original owner doesn't have enough time to work on it. They have decided that a cross-functional team will add some new features and do general maintenance during an upcoming hack week. Before the hack week, everyone has agreed someone should add automated testing and deployments to make collaborating on the project a more pleasant and reliable experience.
 
-Thanks for volunteering to get this project ready for hack week. Let us know when you are ready for us to take a look by @ mentioning `crichID`.
+Thanks for volunteering to get this project ready for hack week. We don't care which tools you use, just pick what you think will be best and let us know when you are ready for us to take a look.
 
 <hr>
 
