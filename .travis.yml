@@ -1,6 +1,9 @@
 language: ruby
 rvm:
  - 2.3.7
+before_script:
+ - psql -c 'create database "demo-deploy_test";' -U postgres
 script:
  - RAILS_ENV=test bin/rails db:migrate --trace
  - rspec
+ - 
