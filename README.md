@@ -32,3 +32,15 @@ Have you ever wanted to keep track of your favorite books? MyAwesomeBookApp is t
 
 Adding a book is easy, and your new entries are displayed and searchable right away!
 !["Create Book" form](https://cloud.githubusercontent.com/assets/4215/22151066/f3502322-dee1-11e6-9442-843bb4822b2c.png)
+
+## List
+
+![devops-github-books-list-590x154](https://user-images.githubusercontent.com/300046/55487889-3452df80-55ec-11e9-8e51-b92967486fff.png)
+
+## Travis CI/CD
+
+https://travis-ci.com/wilsonmar/devops-cert-activity-wilsonmar.svg?token=7cuVVUVUhNKUp4a2v4RA&branch=master
+
+This should appear on success:
+
+![devops-github-tested-606x353-14356](https://user-images.githubusercontent.com/300046/55490464-04f2a180-55f1-11e9-893e-17ac941a3f84.jpg)
