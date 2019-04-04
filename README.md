@@ -43,6 +43,7 @@ This should appear on success:
 
 ![devops-github-tested-606x353-14356](https://user-images.githubusercontent.com/300046/55490464-04f2a180-55f1-11e9-893e-17ac941a3f84.jpg)
 
-<img alt="travis-ci" src="https://travis-ci.com/wilsonmar/devops-cert-activity-wilsonmar.svg?token=7cuVVUVUhNKUp4a2v4RA&branch=master">
+<a target="_blank" href="https://www.travis-ci.org/wilsonmar/devops-cert-activity-wilsonmar2/"><img alt="travis-ci" src="https://travis-ci.com/wilsonmar/devops-cert-activity-wilsonmar.svg?token=7cuVVUVUhNKUp4a2v4RA&branch=master"><br /><img alt="travis-results-1261x624-37285.jpg" width="1261" src="https://user-images.githubusercontent.com/300046/55585137-351a6d00-56e3-11e9-9be6-2a42411aa98b.jpg"></a>
+
 
 
