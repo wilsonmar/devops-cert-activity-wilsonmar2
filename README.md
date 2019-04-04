@@ -39,10 +39,10 @@ Adding a book is easy, and your new entries are displayed and searchable right a
 
 ## Travis CI/CD
 
-https://travis-ci.com/wilsonmar/devops-cert-activity-wilsonmar.svg?token=7cuVVUVUhNKUp4a2v4RA&branch=master
-
 This should appear on success:
 
 ![devops-github-tested-606x353-14356](https://user-images.githubusercontent.com/300046/55490464-04f2a180-55f1-11e9-893e-17ac941a3f84.jpg)
+
+<img alt="travis-ci" src="https://travis-ci.com/wilsonmar/devops-cert-activity-wilsonmar.svg?token=7cuVVUVUhNKUp4a2v4RA&branch=master">
 
 
